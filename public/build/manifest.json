@@ -1,0 +1,89 @@
+{
+  "_App-779136db.js": {
+    "file": "assets/App-779136db.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index-c5b24bcd.js"
+    ]
+  },
+  "_Guest-fa16f823.js": {
+    "file": "assets/Guest-fa16f823.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index-c5b24bcd.js"
+    ]
+  },
+  "_index-c5b24bcd.js": {
+    "file": "assets/index-c5b24bcd.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/Auth/Login.jsx": {
+    "file": "assets/Login-4b6888b4.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Guest-fa16f823.js",
+      "_index-c5b24bcd.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/Login.jsx"
+  },
+  "resources/js/Pages/Auth/Register.jsx": {
+    "file": "assets/Register-617ba75e.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_Guest-fa16f823.js",
+      "_index-c5b24bcd.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/Register.jsx"
+  },
+  "resources/js/Pages/Dashboard.jsx": {
+    "file": "assets/Dashboard-6a912baa.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_App-779136db.js",
+      "_index-c5b24bcd.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dashboard.jsx"
+  },
+  "resources/js/Pages/Home.jsx": {
+    "file": "assets/Home-d22be4de.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_App-779136db.js",
+      "_index-c5b24bcd.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Home.jsx"
+  },
+  "resources/js/Pages/Users/Index.jsx": {
+    "file": "assets/Index-2ab87c2d.js",
+    "imports": [
+      "_App-779136db.js",
+      "resources/js/app.jsx",
+      "_index-c5b24bcd.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Users/Index.jsx"
+  },
+  "resources/js/app.jsx": {
+    "dynamicImports": [
+      "resources/js/Pages/Auth/Login.jsx",
+      "resources/js/Pages/Auth/Register.jsx",
+      "resources/js/Pages/Dashboard.jsx",
+      "resources/js/Pages/Home.jsx",
+      "resources/js/Pages/Users/Index.jsx"
+    ],
+    "file": "assets/app-1d5a0756.js",
+    "isEntry": true,
+    "src": "resources/js/app.jsx"
+  },
+  "resources/scss/app.scss": {
+    "file": "assets/app-6d5006a3.css",
+    "isEntry": true,
+    "src": "resources/scss/app.scss"
+  }
+}
