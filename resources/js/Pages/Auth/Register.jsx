@@ -25,6 +25,7 @@ export default function Register({errors}) {
 
   return (
       <>
+		<div className="py-5 my-5">
          <div className="card">
           <div className="card-header">Register</div>
           <div className="card-body">
@@ -63,9 +64,10 @@ export default function Register({errors}) {
           </div>
 			 <div className="card-footer">
             <span className='text-muted'>Have account? </span> {' '}
-				<Link className='link-dark text-decoration-none fw-bold' href={route('login')}>Register</Link>
+				<Link className='link-dark text-decoration-none fw-bold' href={route('login')}>Login</Link>
           </div>
          </div>
+		</div>
       </>
   )
 }

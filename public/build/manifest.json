@@ -1,70 +1,70 @@
 {
-  "_App-779136db.js": {
-    "file": "assets/App-779136db.js",
+  "_App-7dabd08d.js": {
+    "file": "assets/App-7dabd08d.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-c5b24bcd.js"
+      "_index-1b7860ca.js"
     ]
   },
-  "_Guest-fa16f823.js": {
-    "file": "assets/Guest-fa16f823.js",
+  "_Guest-0038607e.js": {
+    "file": "assets/Guest-0038607e.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-c5b24bcd.js"
+      "_index-1b7860ca.js"
     ]
   },
-  "_index-c5b24bcd.js": {
-    "file": "assets/index-c5b24bcd.js",
+  "_index-1b7860ca.js": {
+    "file": "assets/index-1b7860ca.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
   "resources/js/Pages/Auth/Login.jsx": {
-    "file": "assets/Login-4b6888b4.js",
+    "file": "assets/Login-e04f4d56.js",
     "imports": [
       "resources/js/app.jsx",
-      "_Guest-fa16f823.js",
-      "_index-c5b24bcd.js"
+      "_Guest-0038607e.js",
+      "_index-1b7860ca.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Auth/Login.jsx"
   },
   "resources/js/Pages/Auth/Register.jsx": {
-    "file": "assets/Register-617ba75e.js",
+    "file": "assets/Register-c1a4dd8b.js",
     "imports": [
       "resources/js/app.jsx",
-      "_Guest-fa16f823.js",
-      "_index-c5b24bcd.js"
+      "_Guest-0038607e.js",
+      "_index-1b7860ca.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Auth/Register.jsx"
   },
   "resources/js/Pages/Dashboard.jsx": {
-    "file": "assets/Dashboard-6a912baa.js",
+    "file": "assets/Dashboard-33dc8f64.js",
     "imports": [
       "resources/js/app.jsx",
-      "_App-779136db.js",
-      "_index-c5b24bcd.js"
+      "_App-7dabd08d.js",
+      "_index-1b7860ca.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Dashboard.jsx"
   },
   "resources/js/Pages/Home.jsx": {
-    "file": "assets/Home-d22be4de.js",
+    "file": "assets/Home-62b8fc01.js",
     "imports": [
       "resources/js/app.jsx",
-      "_App-779136db.js",
-      "_index-c5b24bcd.js"
+      "_App-7dabd08d.js",
+      "_index-1b7860ca.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Home.jsx"
   },
   "resources/js/Pages/Users/Index.jsx": {
-    "file": "assets/Index-2ab87c2d.js",
+    "file": "assets/Index-106154a4.js",
     "imports": [
-      "_App-779136db.js",
+      "_App-7dabd08d.js",
       "resources/js/app.jsx",
-      "_index-c5b24bcd.js"
+      "_index-1b7860ca.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Users/Index.jsx"
@@ -77,7 +77,7 @@
       "resources/js/Pages/Home.jsx",
       "resources/js/Pages/Users/Index.jsx"
     ],
-    "file": "assets/app-1d5a0756.js",
+    "file": "assets/app-d8299362.js",
     "isEntry": true,
     "src": "resources/js/app.jsx"
   },
